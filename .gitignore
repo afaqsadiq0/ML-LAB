@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.tmp
+pdf_preview/
+pdf_preview_p*.png
